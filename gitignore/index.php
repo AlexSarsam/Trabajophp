@@ -9,7 +9,7 @@
     include 'sections/part3-movies.php';
     include 'sections/part4-menu.php';
     include 'sections/part5-event.php';
-    include 'sections/part6-travel.php';
+    include 'sections/part6-travel.php'; 
     ?>
 </main>
 
